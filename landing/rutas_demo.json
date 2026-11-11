@@ -1,0 +1,141 @@
+{
+ "_nota": "Respuesta real del sistema (motor v2, 11-nov-2026) para la demo de la landing.",
+ "example": {
+  "alight_street": "Avenida Manuel Vera Enríquez",
+  "board_street": "Avenida Juan Pablo II",
+  "destination": "Estadio Mansiche",
+  "fare_soles": 2.0,
+  "line": "M-23 B",
+  "origin": "UNT",
+  "total_min": 18,
+  "walk_m": 300
+ },
+ "lines": {
+  "C-04-XS": {
+   "class_id": "combi_girasoles_xs",
+   "fare": 2.5,
+   "label": "Girasoles XS",
+   "name": "C-04 XS",
+   "operator": "MODERNO GIRASOLES EXPRESS S.A"
+  },
+  "C-05-B1": {
+   "class_id": "combi_girasoles_b1",
+   "fare": 3.0,
+   "label": "Girasoles B1",
+   "name": "C-05 B1",
+   "operator": "MODERNO GIRASOLES EXPRESS S.A"
+  },
+  "C-18-P": {
+   "class_id": "combi_letra_p",
+   "fare": 2.5,
+   "label": "Combi P",
+   "name": "C-18 P",
+   "operator": "VIRGEN DEL ARCO S.A."
+  },
+  "C-42-B2": {
+   "class_id": "combi_girasoles_b2",
+   "fare": 2.0,
+   "label": "Girasoles B2",
+   "name": "C-42 B2",
+   "operator": "LOS GIRASOLES SERVICE S.R.L."
+  },
+  "M-02-A": {
+   "class_id": "california_linea_a",
+   "fare": 2.0,
+   "label": "California A",
+   "name": "M-02 A",
+   "operator": "CALIFORNIA S.A."
+  },
+  "M-04-A": {
+   "class_id": "huanchaco_linea_hc",
+   "fare": 2.5,
+   "label": "Huanchaco HC",
+   "name": "M-04 A",
+   "operator": "HUANCHACO S.A."
+  },
+  "M-05-H-CORAZON": {
+   "class_id": "huanchaco_linea_h",
+   "fare": 3.0,
+   "label": "Huanchaco H",
+   "name": "M-05 H <3",
+   "operator": "Huanchaco"
+  },
+  "M-06-B": {
+   "class_id": "huanchaco_linea_b",
+   "fare": 3.0,
+   "label": "Huanchaco B",
+   "name": "M-06 B",
+   "operator": "HUANCHACO S.A."
+  },
+  "M-07-V": {
+   "class_id": "nueva_california_v",
+   "fare": 3.0,
+   "label": "Nueva California V",
+   "name": "M-07 V",
+   "operator": "NUEVO CALIFORNIA S.A."
+  },
+  "M-09-BC": {
+   "class_id": "nueva_california_bc",
+   "fare": 3.0,
+   "label": "Nueva California BC",
+   "name": "M-09 BC",
+   "operator": "NUEVO CALIFORNIA S.A."
+  },
+  "M-12-C": {
+   "class_id": "nueva_california_c",
+   "fare": 3.0,
+   "label": "Nueva California C",
+   "name": "M-12 C",
+   "operator": "NUEVO CALIFORNIA S.A."
+  },
+  "M-13-C1": {
+   "class_id": "cortijo_c1",
+   "fare": 3.0,
+   "label": "Cortijo C1",
+   "name": "M-13 C1",
+   "operator": "EL CORTIJO S.A."
+  },
+  "M-15-C2": {
+   "class_id": "cortijo_c2",
+   "fare": 3.0,
+   "label": "Cortijo C2",
+   "name": "M-15 C2",
+   "operator": "EL CORTIJO S.A."
+  },
+  "M-17-C2": {
+   "class_id": "libertad_c2",
+   "fare": 3.0,
+   "label": "Libertad C2",
+   "name": "M-17 C2",
+   "operator": "LIBERTAD S.A."
+  },
+  "M-18-C1": {
+   "class_id": "libertad_c1",
+   "fare": 3.0,
+   "label": "Libertad C1",
+   "name": "M-18 C1",
+   "operator": "LIBERTAD S.A."
+  },
+  "M-23-B": {
+   "class_id": "virgen_puerta_linea_b",
+   "fare": 2.0,
+   "label": "Virgen de la Puerta B",
+   "name": "M-23 B",
+   "operator": "VIRGEN DE LA PUERTA S.A."
+  },
+  "M-35-D": {
+   "class_id": "icaro_letra_d",
+   "fare": 3.0,
+   "label": "Ícaro D",
+   "name": "M-35 D",
+   "operator": "EL ICARO INVERSIONISTAS S.A."
+  },
+  "M-36-LV": {
+   "class_id": "nueva_california_lv",
+   "fare": 3.0,
+   "label": "Nueva California LV",
+   "name": "M-36 LV",
+   "operator": "NUEVO CALIFORNIA S.A."
+  }
+ }
+}
